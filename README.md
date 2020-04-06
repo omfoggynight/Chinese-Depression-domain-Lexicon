@@ -8,8 +8,8 @@ Research results-----Depressive-domain Lexicon
 Research datasets----Depressed and non-depressed microblogs
 More details could be seen in the article.
 
-=======================
-Article title: An automatic construction of depressing-domain lexicon based on microblogs
+
+An automatic construction of depressing-domain lexicon based on microblogs
 =======================
 
 Abstract
