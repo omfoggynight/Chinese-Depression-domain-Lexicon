@@ -13,6 +13,7 @@ An automatic construction of depressing-domain lexicon based on microblogs
 =======================
 
 Abstract
+
 Background: According to the WHO report in 2017, there will be almost one depression patient among every 20 people in China. Diagnosis of depression, however, is usually a hard work in clinical detection due to slow observation, expensive cost and patient resistance. Meanwhile, with the rapid emergence of social networking site(SNS), people tend to share their daily life and disclose inner feelings frequently, making it possible to have an effective mental detection using rich text information. However, in most of the researches so far, it’s hard to extract language features during online depression detection.
 
 Objective: The purpose of this study is to propose an effective approach helping construct a depressing-domain lexicon. This lexicon should contain the language features that depressed users tend to express on the social media. Our study also need to compare the performance of detection with and without our lexicon.
