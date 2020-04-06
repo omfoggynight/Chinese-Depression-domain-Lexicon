@@ -3,7 +3,14 @@ With Word2vec and LPA algorithm, a depreesion-domain lexicon with keywords can b
 
 This is a research work I'm looking forward to helping depressed users online. See more about it at : http://preprints.jmir.org/preprint/17650
 
+Files included:
+Research results-----Depressive-domain Lexicon
+Research datasets----Depressed and non-depressed microblogs
+More details could be seen in the article.
+
+=======================
 Article title: An automatic construction of depressing-domain lexicon based on microblogs
+=======================
 
 Abstract
 Background: According to the WHO report in 2017, there will be almost one depression patient among every 20 people in China. Diagnosis of depression, however, is usually a hard work in clinical detection due to slow observation, expensive cost and patient resistance. Meanwhile, with the rapid emergence of social networking site(SNS), people tend to share their daily life and disclose inner feelings frequently, making it possible to have an effective mental detection using rich text information. However, in most of the researches so far, it’s hard to extract language features during online depression detection.
@@ -17,3 +24,5 @@ Results: Experiment results show that in terms of F1 value, our auto-constructio
 Conclusion: Our depressing-domain lexicon is proved to be a meaningful input of classification algorithms, providing linguistic insights in depressive status of test objects. We believe this lexicon can enhance early depression detection on social media. Future work will need to be carried out on a larger corpus and with more complex method.
 
 Keywords: Depression detection, Depression diagnosis, Social media, Automatic construction, Domain-specific lexicon, Depressing lexicon, Label propagation
+
+=======================
