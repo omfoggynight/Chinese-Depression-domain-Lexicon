@@ -1,4 +1,4 @@
-# Depreesion-domain-Lexicon
+# Depreesion-domain-Lexicon | UIBE Bing's Lab
 With Word2vec and LPA algorithm, a Chinese depreesion-domain lexicon with keywords can be built that will distinguish depressed users from non-depressed users on social media.
 
 This is a research work I'm looking forward to helping depressed users online. See more about it at : http://preprints.jmir.org/preprint/17650
@@ -27,3 +27,6 @@ Conclusion: Our depressing-domain lexicon is proved to be a meaningful input of 
 Keywords: Depression detection, Depression diagnosis, Social media, Automatic construction, Domain-specific lexicon, Depressing lexicon, Label propagation
 
 =======================
+
+This work is supported by National Social Science Fund Project, China (No. 16BTQ065) “Multi-source intelligence fusion research on emergencies in big data environment” & Foundation for Disciplinary Development of UIBE Bing's Lab in SIT of UIBE.
+
